@@ -1,5 +1,1 @@
-Esta es la histora de Pedro picapiedra
-
-Pedro picapiedra tiene 50 años
-
-hoy hablare de su historia
+Este Archivo es el segundo examen Practico de Software 2
